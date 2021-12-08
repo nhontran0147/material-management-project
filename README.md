@@ -34,7 +34,7 @@ h/ In 10 vật tư có doanh thu cao nhất trong 1 khoảng thời gian. Lưu �
 - Trần Quốc Nhơn
  	- MSSV: N19DCCN132
 - Lê Quang Hùng
- 	- MSSV: N19DCN070
+ 	- MSSV: N19DCCN070
 
 ## Các chức năng được chia đều thành 2 phần cho mỗi thành viên:
 - Quốc Nhơn: a, b, e, f.
